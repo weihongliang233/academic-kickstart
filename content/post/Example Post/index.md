@@ -43,7 +43,8 @@ links:
     name: Originally published on Medium
     url: 'https://medium.com'
 
-    
+profile: false  # Show author profile?
+comments: true # Show comments?
 ---
 
 阿斯顿发水电费
