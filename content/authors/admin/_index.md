@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-研究星期:
+interests:
 - 凝聚态物理
 - 数值计算
 - 开源软件
