@@ -9,12 +9,12 @@
   weight = 10
 
 [[main]]
-  name = "文章"
+  name = "博客"
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "项目"
+  name = "开源项目"
   url = "#projects"
   weight = 30
 
