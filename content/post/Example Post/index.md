@@ -31,6 +31,17 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+
+links:
+  - icon_pack: fab
+    icon: twitter
+    name: Follow
+    url: 'https://twitter.com/Twitter'
+  - icon_pack: fab
+    icon: medium
+    name: Originally published on Medium
+    url: 'https://medium.com'
 ---
 
 阿斯顿发水电费
