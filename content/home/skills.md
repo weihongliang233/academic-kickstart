@@ -25,6 +25,13 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
   description = "50%"  
+
+[[feature]]
+  icon = "c"
+  icon_pack = "custom"
+  name = "C++"
+  description = "15%"  
+
   
 
 
