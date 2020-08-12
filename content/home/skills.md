@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Skills"
+title = "熟悉的编程语言"
 subtitle = ""
 
 # Showcase personal skills or business features.
@@ -16,20 +16,17 @@ subtitle = ""
 
 [[feature]]
   icon = "icons8-wolfram-alpha"
+  icon_pack = "custom"
   name = "Wolfram Mathematica"
   description = "80%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "50%"  
   
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
