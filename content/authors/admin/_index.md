@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 个人介绍
+title: 魏弘量
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: 兰州大学
+role: 物理系本科在读
 
 # Organizations/Affiliations
 organizations:
-- name: 在读本科生
+- name: 兰州大学
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
