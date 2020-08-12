@@ -42,7 +42,7 @@ social:
   link: "mailto:weihl18@lzu.eud.cn"  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/weihongliang233
 - icon: zhihu
   icon_pack: fab
   link: https://www.zhihu.com/people/xian-shi-ban-luo-ji
