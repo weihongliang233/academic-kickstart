@@ -24,6 +24,7 @@ interests:
 - 凝聚态物理
 - 数值计算
 - 开源软件
+- Wolfram Mathematica
 
 education:
   courses:
