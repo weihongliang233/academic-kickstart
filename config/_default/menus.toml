@@ -11,12 +11,12 @@
 [[main]]
   name = "博客"
   url = "#posts"
-  weight = 20
+  weight = 40
 
 [[main]]
   name = "开源项目"
   url = "#projects"
-  weight = 30
+  weight = 50
 
 [[main]]
   name = "联系我"
@@ -26,7 +26,12 @@
 [[main]]
   name = "简历"
   url = "https://hongliang-wei.netlify.app/post/example-post/"
-  weight = 50
+  weight = 20
+
+[[main]]
+  name = "发表论文"
+  url = "https://hongliang-wei.netlify.app/post/example-post/"
+  weight = 30
 
 
 # Link to a PDF of your resume/CV from the menu.
