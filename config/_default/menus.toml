@@ -25,7 +25,7 @@
 
 [[main]]
   name = "简历"
-  url = "files/cv.md"
+  url = "https://hongliang-wei.netlify.app/post/example-post/"
   weight = 50
 
 
