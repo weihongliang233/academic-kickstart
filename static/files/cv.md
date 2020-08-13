@@ -1,15 +1,15 @@
 ---
-title: 'ÑùÀıÍøÒ³'
-subtitle: 'ÑùÀıÍøÒ³ :rocket:'
-summary: ´´½¨Ò»¸öÑùÀıÍøÒ³
+title: 'æ ·ä¾‹ç½‘é¡µ'
+subtitle: 'æ ·ä¾‹ç½‘é¡µ :rocket:'
+summary: åˆ›å»ºä¸€ä¸ªæ ·ä¾‹ç½‘é¡µ
 authors:
 - admin
 tags:
 - Academic
-- ¿ªÔ´
+- å¼€æº
 categories:
 - Demo
-- ½Ì³Ì
+- æ•™ç¨‹
 date: "2016-04-20T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
 featured: true
@@ -47,4 +47,4 @@ profile: false  # Show author profile?
 comments: true # Show comments?
 ---
 
-°¢Ë¹¶Ù·¢Ë®µç·Ñ
+é˜¿æ–¯é¡¿å‘æ°´ç”µè´¹
